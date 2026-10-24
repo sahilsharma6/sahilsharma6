@@ -1,62 +1,50 @@
 <h1 align="center">Hi 👋, I'm Sahil Sharma</h1>
 
-<p align="center">
-  <strong>Full-Stack Developer · AI & LLM Applications · India</strong><br>
-  Building web applications, APIs, and AI-powered tools for real business needs.
-</p>
-
----
-
-### About me
-
-I'm a full-stack developer working with JavaScript, React, Node.js, Express, MongoDB, and PostgreSQL. I enjoy connecting clean interfaces with useful backend systems and building AI-powered features with large language models (LLMs) and retrieval-augmented generation (RAG).
-
-- 💻 My work includes business websites, dashboards, authentication, and REST APIs.
-- 📱 I also work with React Native and Expo for mobile development.
-- 🛠️ I've worked with PHP, MySQL, Docker, and VPS deployments.
-- 🤖 I work with LLM integrations and RAG for AI-powered applications.
-- 🧠 I'm also interested in machine learning and practical uses of Python.
-- 🌱 My interests also include backend architecture and microservices.
-
-### Tech stack
-
-| Area | Technologies |
-| --- | --- |
-| Frontend | JavaScript, React, HTML, CSS, Tailwind CSS |
-| UI | shadcn/ui, Framer Motion, Bootstrap |
-| Backend | Node.js, Express.js, REST APIs, Socket.io |
-| Databases | PostgreSQL, MongoDB, MySQL |
-| Data modeling | Mongoose |
-| Mobile | React Native, Expo |
-| Tools & deployment | Git, GitHub, Docker, Coolify, VPS |
-| AI & LLMs | Large language models (LLMs), retrieval-augmented generation (RAG), AI integrations |
-| Also explored | Python, PHP, machine learning |
-
-### Projects
-
-**♻️ Hocas**  
-A scrap pickup project for homes and businesses in Sonipat and Delhi, with a React website and an Expo mobile app.
-
-**📚 MERN Learning Portal**  
-A learning and blog platform with categories, posts, and role-based dashboards.
-
-<!--
-PERSONALIZE BEFORE PUBLISHING:
-- Review the project descriptions to match what is currently implemented.
-- Add real repository or live-demo links under each project.
-- Uncomment the contact section below and replace its placeholders.
-- Remove any technology you do not want to highlight.
-
-### Let's connect
-
-[GitHub](https://github.com/YOUR_USERNAME) ·
-[Portfolio](https://YOUR_PORTFOLIO_URL) ·
-[LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME)
--->
-
----
+<h3 align="center">Full-Stack Developer · AI &amp; LLM Applications</h3>
 
 <p align="center">
-  Have an idea? Let's build something useful.
+  From responsive interfaces to backend systems and AI-powered features.<br>
+  <strong>Building useful software from India 🇮🇳</strong>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/React-087EA4?style=for-the-badge&amp;logo=react&amp;logoColor=white" alt="React">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/MongoDB-008F5A?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="Docker">
+</p>
+
+👨‍💻 About me
+I'm a full-stack developer working across web, mobile, and AI-powered applications. My core stack includes React, Node.js, Express, PostgreSQL, and MongoDB. I enjoy connecting clean interfaces with backend systems that solve practical problems.
+- Web & backend — Business websites, dashboards, REST APIs, authentication, and real-time features.
+- Mobile — Cross-platform applications with React Native and Expo.
+- AI — LLM integrations and retrieval-augmented generation (RAG).
+- Deployment — Docker, Coolify, and VPS-based hosting.
+🧠 AI & LLMs
+<p>
+  <img src="https://img.shields.io/badge/LLMs-7C3AED?style=for-the-badge" alt="LLMs">
+  <img src="https://img.shields.io/badge/RAG-0891B2?style=for-the-badge" alt="RAG">
+  <img src="https://img.shields.io/badge/AI%20Integrations-2563EB?style=for-the-badge" alt="AI Integrations">
+</p>
+
+I work on bringing large language models into web applications and using RAG to connect AI responses with relevant information.
+
+I'm also exploring machine learning with Python, alongside backend architecture and microservices.
+🛠️ Tech stack
+Area	Technologies
+Languages	JavaScript · Python · PHP
+Frontend	React · HTML · CSS · Tailwind CSS · Bootstrap
+UI & animation	shadcn/ui · Framer Motion
+Backend & APIs	Node.js · Express.js · REST APIs · Socket.io
+Databases & modeling	PostgreSQL · MongoDB · MySQL · Mongoose
+Mobile	React Native · Expo
+AI & LLMs	LLM integrations · Retrieval-augmented generation (RAG)
+Tools & deployment	Git · GitHub · Docker · Coolify · VPS
+
+
+<p align="center">
+  <strong>Have an idea? Let's build something useful.</strong><br>
+  <sub>Web · Mobile · APIs · AI</sub>
+</p>
